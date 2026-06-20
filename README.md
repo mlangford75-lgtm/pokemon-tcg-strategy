@@ -3,7 +3,7 @@
 This repository contains the mathematically verified strategy write-up, data-engineering scripts, and statistical simulation tools developed for the **Pokémon Company - PTCG AI Battle Challenge (Strategy Category)**.
 
 ## Project Structure
-*   `Kaggle_Strategy_Submission.md`: The complete, 1,146-word competitive strategy write-up.
+*   `Kaggle_Strategy_Submission.md`: The complete, mathematically verified ~1,450-word competitive strategy write-up.
 *   `extract_stats.py`: Python script to calculate the Damage-Per-Energy (DPE) and meta-game weakness distribution from the dataset.
 *   `generate_plot.py`: Generates the exact line plot comparing static hypergeometric draw baselines against dynamic Markov chain thinning.
 *   `generate_diagrams.py`: Programmatically generates the MCTS decision flowcharts and state-transition DAGs.
